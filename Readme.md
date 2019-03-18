@@ -1,5 +1,5 @@
 ﻿![Logo](aspdotnetcore.png)
-# Learning Hangfire
+# Learning stuffs
 > Author [**Tony Truong**]
 
 
