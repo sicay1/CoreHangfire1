@@ -12983,11 +12983,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\source\\repos\\CoreHangfire1\\CoreHangfire1\\CoreHangfire1.csproj",
+      "projectUniqueName": "E:\\MyGithub\\CoreHangfire1\\CoreHangfire1.csproj",
       "projectName": "CoreHangfire1",
-      "projectPath": "C:\\Users\\admin\\source\\repos\\CoreHangfire1\\CoreHangfire1\\CoreHangfire1.csproj",
+      "projectPath": "E:\\MyGithub\\CoreHangfire1\\CoreHangfire1.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\source\\repos\\CoreHangfire1\\CoreHangfire1\\obj\\",
+      "outputPath": "E:\\MyGithub\\CoreHangfire1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
